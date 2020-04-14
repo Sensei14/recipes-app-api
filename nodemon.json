@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "recipesAPI",
+    "DB_PASSWORD": "kSqWyotriirxCH3G",
+    "DB_NAME": "recipesDB",
+    "JWT_KEY": "recipes_api_auth_key"
+  }
+}
